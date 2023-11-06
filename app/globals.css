@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+--navleft : #121212;
+
+}
+html , body {
+  margin: 0;
+  background-color: var(--navleft);
+  padding: 0;
+  box-sizing: border-box;
+}
+/* 'navbarleft':'#121212',
+'mainbar':'#212121',
+'bacgroud':'#000000',
+'icon-and-letter':'#B3B3B3',
+'letter':'#FFFFFF', */
