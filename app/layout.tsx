@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Spotify',
   description: 'the new page for spotify for you',
-  author: 'João fernando',
+  authors: [{name: 'João fernando' , url:''}],
 
 }
 
